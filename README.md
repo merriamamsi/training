@@ -1,4 +1,4 @@
 # food site
 link site
 ****
-https://mrim-amsi.github.io/food/
+https://mrim-amsi.github.io/food-site/
